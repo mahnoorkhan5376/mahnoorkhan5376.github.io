@@ -5,14 +5,14 @@ body
 {
 font-family : Arial ,sans-serif;
 margin:0;
-backgroud-color : #f4f6f8;
+backgronud-color : #f4f6f8;
 color : #333;
 line-height : 1.6;
 }
 
 header
 {
-backgroud-color : #263a5b;
+background-color : #263a5b;
 color :white;
 text-align :center;
 padding : 20px 15px;
@@ -27,7 +27,7 @@ padding : 0 15px;
 }
 section
 {
-background-bottom :white;
+background-color :white;
 margin-bottom: 12px;
 padding  : 15px 20px;
 border-radius :8px;
